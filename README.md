@@ -1,4 +1,6 @@
 # CarReviewswithLLMs
+![Image Broken ](car.jpeg)
+
 The CTO at "Car-ing is sharing", a car sales and rental company, hired you to help prototype a chatbot app that addresses diverse inquiries using LLMs. She proposed you piloting the following tasks:
 
 1. Use a pre-trained LLM to classify the sentiment of the five car reviews in the car_reviews.csv dataset, and evaluate the classification accuracy and F1 score of predictions.
